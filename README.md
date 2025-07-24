@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ashim ADK (he/him)</h1>
 
-<!--
-**ashim-08/ashim-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Web Developer from 🇳🇵 Pokhara, Nepal  
+🌐 Passionate about building full-stack apps with React, Node.js & MongoDB  
+📫 Reach me: <a href="mailto:ashimzwork1@gmail.com">ashimzwork1@gmail.com</a> | 🌍 <a href="https://ashimwork.netlify.app" target="_blank">ashimwork.netlify.app</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 About Me
+
+👋 I'm **Ashim ADK**, a web developer from 🇳🇵 Pokhara, Nepal. I build full-stack apps with ⚛️ React, 🌐 Node.js & 🍃 MongoDB.  
+Projects:  
+🎵 Harmonify (music app)  
+🛒 ByteBajar (tech store)  
+🔧 Hardware Shop  
+🏔️ Nepal Tourism Site  
+💬 Kura (chat app)  
+🍱 NepaliThali (food delivery)
+
+---
+
+### 🚀 Featured Projects
+
+- 🎵 **Harmonify** – Music streaming site with clean UI  
+- 🛒 **ByteBajar** – E-commerce site for tech products  
+- 🔧 **Hardware Shop** – Storefront for electronics & tools  
+- 🏔️ **Nepal Tourism Website** – Explore Nepal online  
+- 💬 **Kura** – Real-time chatting app  
+- 🍱 **NepaliThali** – Food delivery web app
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,flutter,html,css,js,github,vscode,firebase" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshimADK&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshimADK&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🙏;Let's+build+something+awesome!+🚀" />
+</p>
