@@ -35,7 +35,7 @@ Projects:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,flutter,html,css,js,github,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,html,css,js,github,vscode" />
 </p>
 
 ---
