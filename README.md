@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashim-08&show_icons=true&theme=radical" alt="Ashim's GitHub stats" width="48%" style="max-width: 100%; margin-right: 4%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-08&layout=compact&theme=radical" alt="Top Languages" width="44%" style="max-width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashim-08&show_icons=true&theme=default" alt="Ashim's GitHub stats" width="48%" style="max-width: 100%; margin-right: 4%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-08&layout=compact&theme=default" alt="Top Languages" width="44%" style="max-width: 100%" />
 </p>
 
 ---
@@ -56,15 +56,19 @@ A collaborative whiteboard powered by WebSockets for real-time drawing, multi-us
 ## 📫 Contact Me
 
 <p align="left" style="display: flex; gap: 12px;">
-  <a href="https://www.linkedin.com/in/ashim-adhikari-934653379/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" alt="LinkedIn" title="LinkedIn" style="filter: invert(27%) sepia(86%) saturate(2349%) hue-rotate(197deg) brightness(92%) contrast(91%);" />
+
+  <a href="https://www.linkedin.com/in/ashim-adhikari-934653379/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" alt="LinkedIn" />
   </a>
-  <a href="https://ashimwork.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlesites.svg" width="28" alt="Portfolio" title="Portfolio" style="filter: invert(34%) sepia(79%) saturate(269%) hue-rotate(87deg) brightness(97%) contrast(92%);" />
+
+  <a href="https://ashimwork.netlify.app/" target="_blank" rel="noopener noreferrer" title="Portfolio">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webstorm.svg" width="28" alt="Portfolio" />
   </a>
-  <a href="mailto:ashimwork1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" alt="Gmail" title="Gmail" style="filter: invert(16%) sepia(92%) saturate(7473%) hue-rotate(349deg) brightness(98%) contrast(111%);" />
+
+  <a href="mailto:ashimwork1@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" alt="Gmail" />
   </a>
+
 </p>
 
 ---
