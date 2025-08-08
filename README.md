@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js" />
-  <img src="https://tse1.mm.bing.net/th/id/OIP.bdGWjsmp0Bh7_CtzkhMv5gHaFx?rs=1&pid=ImgDetMain&o=7&rm=3" width="32" alt="Express" style="filter: brightness(0) invert(0.6);" />
+  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" width="32" alt="Express" style="filter: brightness(0) invert(0.6);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS3" />
@@ -57,13 +57,13 @@ A collaborative whiteboard powered by WebSockets for real-time drawing, multi-us
 
 <p align="left" style="display: flex; gap: 12px;">
   <a href="https://www.linkedin.com/in/ashim-adhikari-934653379/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://th.bing.com/th/id/OIP.jInUKm13RYoWOcd7uEYYmwHaHa?w=177&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="28" alt="LinkedIn" style="filter: invert(31%) sepia(73%) saturate(312%) hue-rotate(169deg) brightness(92%) contrast(91%);" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="28" alt="LinkedIn" style="filter: invert(31%) sepia(73%) saturate(312%) hue-rotate(169deg) brightness(92%) contrast(91%);" />
   </a>
   <a href="https://ashimwork.netlify.app/" target="_blank" rel="noopener noreferrer" title="Portfolio">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.ASh74Ao_NNJYCtlkFaXplAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="28" alt="Portfolio" style="filter: invert(42%) sepia(60%) saturate(112%) hue-rotate(83deg) brightness(93%) contrast(88%);" />
+    <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" width="28" alt="Portfolio" style="filter: invert(42%) sepia(60%) saturate(112%) hue-rotate(83deg) brightness(93%) contrast(88%);" />
   </a>
   <a href="mailto:ashimwork1@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.X96HZ4SK_kq-kETk2FxNXAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="28" alt="Gmail" style="filter: invert(26%) sepia(92%) saturate(7041%) hue-rotate(358deg) brightness(96%) contrast(110%);" />
+    <img src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=0000003" width="28" alt="Gmail" style="filter: invert(26%) sepia(92%) saturate(7041%) hue-rotate(358deg) brightness(96%) contrast(110%);" />
   </a>
 </p>
 
