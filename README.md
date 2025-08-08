@@ -59,9 +59,11 @@ A collaborative whiteboard powered by WebSockets for real-time drawing, multi-us
   <a href="https://www.linkedin.com/in/ashim-adhikari-934653379/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" alt="LinkedIn" style="filter: invert(31%) sepia(73%) saturate(312%) hue-rotate(169deg) brightness(92%) contrast(91%);" />
   </a>
+
   <a href="https://ashimwork.netlify.app/" target="_blank" rel="noopener noreferrer" title="Portfolio">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webstorm.svg" width="28" alt="Portfolio" style="filter: invert(42%) sepia(60%) saturate(112%) hue-rotate(83deg) brightness(93%) contrast(88%);" />
   </a>
+
   <a href="mailto:ashimwork1@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" alt="Gmail" style="filter: invert(26%) sepia(92%) saturate(7041%) hue-rotate(358deg) brightness(96%) contrast(110%);" />
   </a>
