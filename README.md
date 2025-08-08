@@ -60,7 +60,7 @@ A collaborative whiteboard powered by WebSockets for real-time drawing, multi-us
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="28" alt="LinkedIn" style="filter: invert(31%) sepia(73%) saturate(312%) hue-rotate(169deg) brightness(92%) contrast(91%);" />
   </a>
   <a href="https://ashimwork.netlify.app/" target="_blank" rel="noopener noreferrer" title="Portfolio">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.X96HZ4SK_kq-kETk2FxNXAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="28" alt="Portfolio" style="filter: invert(42%) sepia(60%) saturate(112%) hue-rotate(83deg) brightness(93%) contrast(88%);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlesites.svg" width="28" alt="Portfolio" style="filter: invert(42%) sepia(60%) saturate(112%) hue-rotate(83deg) brightness(93%) contrast(88%);" />
   </a>
   <a href="mailto:ashimwork1@gmail.com" target="_blank" rel="noopener noreferrer" title="Gmail">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="28" alt="Gmail" style="filter: invert(26%) sepia(92%) saturate(7041%) hue-rotate(358deg) brightness(96%) contrast(110%);" />
