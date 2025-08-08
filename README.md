@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashim-08&show_icons=true&theme=default" alt="Ashim's GitHub stats" width="48%" style="max-width: 100%; margin-right: 4%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-08&layout=compact&theme=default" alt="Top Languages" width="44%" style="max-width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashim-08&show_icons=true&theme=radical" alt="Ashim's GitHub stats" width="48%" style="max-width: 100%; margin-right: 4%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-08&layout=compact&theme=radical" alt="Top Languages" width="44%" style="max-width: 100%" />
 </p>
 
 ---
